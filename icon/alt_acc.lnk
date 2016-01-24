@@ -1,0 +1,10 @@
+table Icon
+  Caption: АСС
+  CaptionTip: System centr
+  Command: acc
+  Icon: /usr/share/icons/hicolor/48x48/apps/altlinux.png
+  Width: 48
+  Height: 48
+  X: 40
+  Y: 140
+end

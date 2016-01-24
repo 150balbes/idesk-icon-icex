@@ -1,0 +1,11 @@
+table Icon
+  Caption: Icewm set
+  CaptionTip: Icewm set
+  Command: icex-set
+  Icon: /usr/share/icons/hicolor/48x48/apps/icex-set.png
+  Width: 48
+  Height: 48
+  X: 40
+  Y: 540
+end
+
