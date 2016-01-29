@@ -1,6 +1,6 @@
 Name: idesk-icon-icex
 Version: 0.0.1
-Release: alt5
+Release: alt6
 
 Summary: Icon for idesk icewm
 Group: Graphical desktop/Icewm
@@ -27,6 +27,9 @@ tar xf %SOURCE0 -C %buildroot%_sysconfdir/idesk.d/
 %_sysconfdir/idesk.d/icon/*
 
 %changelog
+* Sun Jan 29 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.1-alt6
+- add idesk-x-set , dell icex-set
+
 * Sun Jan 24 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.1-alt5
 - rename
 
