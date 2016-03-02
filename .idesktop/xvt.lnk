@@ -1,0 +1,11 @@
+table Icon
+  Caption: X Terminal
+  CaptionTip: Shell Window
+  Command: xvt
+  Icon: /usr/share/icons/hicolor/48x48/apps/terminals_section.png
+  Width: 48
+  Height: 48
+  X: 40
+  Y: 40
+end
+

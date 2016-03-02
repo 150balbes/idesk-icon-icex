@@ -1,1 +1,2 @@
-tar: icon name=icon
+copy: .ideskrc
+tar.gz: .idesktop name=.idesktop
