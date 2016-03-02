@@ -8,7 +8,7 @@ License: GPL
 Url: https://www.github.com/150balbes/idesk-icon-icewm
 Packager: Oleg Ivanov <Leo-sp150@yandex.ru>
 
-Requires: idesk >= 0.7.5-alt18
+Requires: idesk >= 0.7.6
 
 Source0: .idesktop.tar.gz
 Source1: .ideskrc
