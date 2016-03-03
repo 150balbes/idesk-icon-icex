@@ -1,5 +1,5 @@
 Name: idesk-icon-icex
-Version: 0.0.2
+Version: 0.0.3
 Release: alt1
 
 Summary: Icon for idesk icewm
@@ -30,6 +30,9 @@ install -pD -m644 %SOURCE1 %buildroot%_sysconfdir/skel/.ideskrc
 %_sysconfdir/skel/.ideskrc
 
 %changelog
+* Sun Mar 03 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.3-alt1
+- del lnk
+
 * Sun Mar 2 2016 Oleg Ivanov <Leo-sp150@yandex.ru> 0.0.2-alt1
 - new ver
 
