@@ -1,7 +1,7 @@
 table Icon
   Caption: Icewm set
   CaptionTip: Icewm set
-  Command: idesk-x-set
+  Command: idesk-set
   Icon: /usr/share/icons/hicolor/48x48/apps/idesk-set.png
   Width: 48
   Height: 48
